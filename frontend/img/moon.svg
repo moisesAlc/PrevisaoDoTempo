@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 50.850513 52.713496"
+   version="1.1"
+   id="svg4511"
+   sodipodi:docname="moon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   width="50.850513"
+   height="52.713497">
+  <metadata
+     id="metadata4515">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>moon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4513"
+     showgrid="false"
+     inkscape:zoom="3.8130381"
+     inkscape:cx="25.421846"
+     inkscape:cy="26.334496"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4511"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4445">
+    <style
+       id="style4386">.cls-1{mask:url(#mask);filter:url(#luminosity-noclip-2);}.cls-2,.cls-31,.cls-4{mix-blend-mode:multiply;}.cls-2{fill:url(#linear-gradient);}.cls-3{isolation:isolate;}.cls-25,.cls-5{fill:#fff;}.cls-5{opacity:0;}.cls-6{fill:#fbfcfc;opacity:0.05;}.cls-7{fill:#f8f8f8;opacity:0.11;}.cls-8{fill:#f4f5f5;opacity:0.16;}.cls-9{fill:#f1f1f2;opacity:0.21;}.cls-10{fill:#edeeee;opacity:0.26;}.cls-11{fill:#eaeaeb;opacity:0.32;}.cls-12{fill:#e6e7e8;opacity:0.37;}.cls-13{fill:#e3e4e4;opacity:0.42;}.cls-14{fill:#dfe0e1;opacity:0.47;}.cls-15{fill:#dcddde;opacity:0.53;}.cls-16{fill:#d8d9db;opacity:0.58;}.cls-17{fill:#d5d6d7;opacity:0.63;}.cls-18{fill:#d1d3d4;opacity:0.68;}.cls-19{fill:#cecfd1;opacity:0.74;}.cls-20{fill:#cacccd;opacity:0.79;}.cls-21{fill:#c7c8ca;opacity:0.84;}.cls-22{fill:#c3c5c7;opacity:0.89;}.cls-23{fill:#c0c1c3;opacity:0.95;}.cls-24{fill:#bcbec0;}.cls-26{fill:url(#linear-gradient-2);}.cls-27{fill:#d89f00;}.cls-28,.cls-29{fill:#fb0;}.cls-29{opacity:0.2;mix-blend-mode:screen;}.cls-30{mask:url(#mask-2);}.cls-31{fill:url(#linear-gradient-3);}.cls-32{filter:url(#luminosity-noclip);}</style>
+    <filter
+       id="luminosity-noclip"
+       x="12.33"
+       y="-8295.8701"
+       width="50.849998"
+       height="32766"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="#fff"
+         result="bg"
+         id="feFlood4388" />
+      <feBlend
+         in="SourceGraphic"
+         in2="bg"
+         id="feBlend4390"
+         mode="normal" />
+    </filter>
+    <mask
+       id="mask"
+       x="12.33"
+       y="-8295.87"
+       width="50.85"
+       height="32766"
+       maskUnits="userSpaceOnUse">
+      <g
+         class="cls-32"
+         id="g4393" />
+    </mask>
+    <linearGradient
+       id="linear-gradient"
+       x1="23.959999"
+       y1="45.52"
+       x2="61.110001"
+       y2="8.3800001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.39"
+         stop-color="#b3b3b3"
+         id="stop4396" />
+      <stop
+         offset="0.49"
+         stop-color="#b6b6b6"
+         id="stop4398" />
+      <stop
+         offset="0.56"
+         stop-color="#bfbfbf"
+         id="stop4400" />
+      <stop
+         offset="0.62"
+         stop-color="#cfcfcf"
+         id="stop4402" />
+      <stop
+         offset="0.67"
+         stop-color="#e4e4e4"
+         id="stop4404" />
+      <stop
+         offset="0.72"
+         stop-color="#fff"
+         id="stop4406" />
+      <stop
+         offset="0.76"
+         stop-color="#fff"
+         id="stop4408" />
+      <stop
+         offset="0.99"
+         stop-color="#fff"
+         id="stop4410" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="19.35"
+       y1="50.130001"
+       x2="59.200001"
+       y2="10.28"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.329939,0.00349796)">
+      <stop
+         offset="0"
+         stop-color="#e6e6e6"
+         id="stop4413" />
+      <stop
+         offset="1"
+         stop-color="#fafafa"
+         id="stop4415" />
+    </linearGradient>
+    <filter
+       id="luminosity-noclip-2"
+       x="12.33"
+       y="0"
+       width="50.849998"
+       height="52.709999"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="#fff"
+         result="bg"
+         id="feFlood4418" />
+      <feBlend
+         in="SourceGraphic"
+         in2="bg"
+         id="feBlend4420"
+         mode="normal" />
+    </filter>
+    <mask
+       id="mask-2"
+       x="12.33"
+       y="0"
+       width="50.85"
+       height="52.71"
+       maskUnits="userSpaceOnUse">
+      <g
+         class="cls-1"
+         mask="url(#mask)"
+         id="g4425">
+        <path
+           class="cls-2"
+           d="M 63.18,26 A 26.1,26.1 0 0 0 41.05,0.05 a 4.43,4.43 0 0 0 -4.71,6.23 17.29,17.29 0 0 1 1.6,7.29 c 0,0.3 0,0.6 0,0.89 0,0 0,0.06 0,0.09 A 17.39,17.39 0 0 1 20.57,31 a 17.93,17.93 0 0 1 -2.73,-0.21 1.23,1.23 0 0 0 -0.19,0 h -0.21 a 4.43,4.43 0 0 0 -4.74,6.15 27,27 0 0 0 24.39,15.77 26.39,26.39 0 0 0 26.09,-26 c 0,-0.13 0,-0.25 0,-0.37 0,-0.12 0,-0.24 0,-0.34 z"
+           id="path4423" />
+      </g>
+    </mask>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="23.959999"
+       y1="45.52"
+       x2="61.110001"
+       y2="8.3800001"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.39"
+         stop-color="#fff"
+         id="stop4428" />
+      <stop
+         offset="0.5"
+         stop-color="#fcfcfc"
+         id="stop4430" />
+      <stop
+         offset="0.58"
+         stop-color="#f3f3f3"
+         id="stop4432" />
+      <stop
+         offset="0.65"
+         stop-color="#e3e3e3"
+         id="stop4434" />
+      <stop
+         offset="0.71"
+         stop-color="#cecece"
+         id="stop4436" />
+      <stop
+         offset="0.72"
+         stop-color="#c9c9c9"
+         id="stop4438" />
+      <stop
+         offset="0.76"
+         stop-color="#c9c9c9"
+         id="stop4440" />
+      <stop
+         offset="0.99"
+         stop-color="#c9c9c9"
+         id="stop4442" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title4447">moon</title>
+  <path
+     class="cls-26"
+     d="m 50.850061,26.003498 a 26.1,26.1 0 0 0 -22.13,-25.95000004 4.43,4.43 0 0 0 -4.71,6.23000004 17.29,17.29 0 0 1 1.6,7.29 c 0,0.3 0,0.6 0,0.89 0,0 0,0.06 0,0.09 a 17.39,17.39 0 0 1 -17.3700004,16.45 17.93,17.93 0 0 1 -2.73,-0.21 1.23,1.23 0 0 0 -0.19,0 h -0.21 a 4.43,4.43 0 0 0 -4.73999999,6.15 27,27 0 0 0 24.39000039,15.77 26.39,26.39 0 0 0 26.09,-26 c 0,-0.13 0,-0.25 0,-0.37 0,-0.12 0,-0.24 0,-0.34 z"
+     id="path4493"
+     style="isolation:isolate;fill:url(#linear-gradient-2)" />
+  <g
+     class="cls-30"
+     mask="url(#mask-2)"
+     id="g4504"
+     style="isolation:isolate"
+     transform="translate(-12.329939,0.00349796)">
+    <path
+       class="cls-31"
+       d="M 63.18,26 A 26.1,26.1 0 0 0 41.05,0.05 a 4.43,4.43 0 0 0 -4.71,6.23 17.29,17.29 0 0 1 1.6,7.29 c 0,0.3 0,0.6 0,0.89 0,0 0,0.06 0,0.09 A 17.39,17.39 0 0 1 20.57,31 a 17.93,17.93 0 0 1 -2.73,-0.21 1.23,1.23 0 0 0 -0.19,0 h -0.21 a 4.43,4.43 0 0 0 -4.74,6.15 27,27 0 0 0 24.39,15.77 26.39,26.39 0 0 0 26.09,-26 c 0,-0.13 0,-0.25 0,-0.37 0,-0.12 0,-0.24 0,-0.34 z"
+       id="path4502"
+       style="fill:url(#linear-gradient-3)" />
+  </g>
+  <g
+     id="moon-2"
+     data-name="moon"
+     style="isolation:isolate"
+     transform="translate(-12.329939,0.00349796)">
+    <path
+       class="cls-27"
+       d="m 40.91,4.84 a 22.57,22.57 0 0 1 1.89,9.36 c 0,12 -10.19,21.94 -22.23,21.94 -1,0 -2.43,-0.88 -3.41,-1 l -0.4,-0.06 A 22.4,22.4 0 0 0 37.09,48.29 21.82,21.82 0 0 0 58.75,26.73 C 58.75,15.84 51.34,6.47 40.91,4.84 Z"
+       id="path4495" />
+    <path
+       class="cls-28"
+       d="M 40.36,4.43 A 21.8,21.8 0 0 1 20.57,35.37 22.53,22.53 0 0 1 17.16,35.11 21.8,21.8 0 1 0 40.36,4.43 Z"
+       id="path4497" />
+    <path
+       class="cls-29"
+       d="m 35.89,29.07 a 40.33,40.33 0 0 1 5,-0.32 A 32.84,32.84 0 0 1 57.6,33 21.51,21.51 0 0 0 58.75,26 21.8,21.8 0 0 0 40.36,4.43 21.78,21.78 0 0 1 35.89,29.07 Z"
+       id="path4499" />
+  </g>
+</svg>

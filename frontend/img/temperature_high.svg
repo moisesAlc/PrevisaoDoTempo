@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 30.570036 55.58785"
+   version="1.1"
+   id="svg10677"
+   sodipodi:docname="temperature_high.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   width="30.570036"
+   height="55.587849">
+  <metadata
+     id="metadata10681">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview10679"
+     showgrid="false"
+     inkscape:zoom="3.6475954"
+     inkscape:cx="25.74157"
+     inkscape:cy="43.020551"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10677"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs10595">
+    <style
+       id="style10536">.cls-1{mask:url(#mask);filter:url(#luminosity-noclip-2);}.cls-2,.cls-33,.cls-4{mix-blend-mode:multiply;}.cls-2{fill:url(#linear-gradient);}.cls-3{isolation:isolate;}.cls-25,.cls-5{fill:#fff;}.cls-5{opacity:0;}.cls-6{fill:#fbfcfc;opacity:0.05;}.cls-7{fill:#f8f8f8;opacity:0.11;}.cls-8{fill:#f4f5f5;opacity:0.16;}.cls-9{fill:#f1f1f2;opacity:0.21;}.cls-10{fill:#edeeee;opacity:0.26;}.cls-11{fill:#eaeaeb;opacity:0.32;}.cls-12{fill:#e6e7e8;opacity:0.37;}.cls-13{fill:#e3e4e4;opacity:0.42;}.cls-14{fill:#dfe0e1;opacity:0.47;}.cls-15{fill:#dcddde;opacity:0.53;}.cls-16{fill:#d8d9db;opacity:0.58;}.cls-17{fill:#d5d6d7;opacity:0.63;}.cls-18{fill:#d1d3d4;opacity:0.68;}.cls-19{fill:#cecfd1;opacity:0.74;}.cls-20{fill:#cacccd;opacity:0.79;}.cls-21{fill:#c7c8ca;opacity:0.84;}.cls-22{fill:#c3c5c7;opacity:0.89;}.cls-23{fill:#c0c1c3;opacity:0.95;}.cls-24{fill:#bcbec0;}.cls-26{fill:url(#linear-gradient-2);}.cls-27{fill:#a3bad4;}.cls-28{fill:#c9e2ff;}.cls-29{fill:#b32c19;}.cls-30{fill:#e53820;}.cls-31{fill:#b8d9ff;opacity:0.2;mix-blend-mode:screen;}.cls-32{mask:url(#mask-2);}.cls-33{fill:url(#linear-gradient-3);}.cls-34{filter:url(#luminosity-noclip);}</style>
+    <filter
+       id="luminosity-noclip"
+       x="12.33"
+       y="-8061.21"
+       width="30.559999"
+       height="32766"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="#fff"
+         result="bg"
+         id="feFlood10538" />
+      <feBlend
+         in="SourceGraphic"
+         in2="bg"
+         id="feBlend10540"
+         mode="normal" />
+    </filter>
+    <mask
+       id="mask"
+       x="12.33"
+       y="-8061.21"
+       width="30.56"
+       height="32766"
+       maskUnits="userSpaceOnUse">
+      <g
+         class="cls-34"
+         id="g10543" />
+    </mask>
+    <linearGradient
+       id="linear-gradient"
+       x1="7.5"
+       y1="48.759998"
+       x2="47.619999"
+       y2="8.6400003"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.39"
+         stop-color="#b3b3b3"
+         id="stop10546" />
+      <stop
+         offset="0.49"
+         stop-color="#b6b6b6"
+         id="stop10548" />
+      <stop
+         offset="0.56"
+         stop-color="#bfbfbf"
+         id="stop10550" />
+      <stop
+         offset="0.62"
+         stop-color="#cfcfcf"
+         id="stop10552" />
+      <stop
+         offset="0.67"
+         stop-color="#e4e4e4"
+         id="stop10554" />
+      <stop
+         offset="0.72"
+         stop-color="#fff"
+         id="stop10556" />
+      <stop
+         offset="0.76"
+         stop-color="#fff"
+         id="stop10558" />
+      <stop
+         offset="0.99"
+         stop-color="#fff"
+         id="stop10560" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="9.7799997"
+       y1="46.48"
+       x2="34.240002"
+       y2="22.030001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.32,-0.07215026)">
+      <stop
+         offset="0"
+         stop-color="#e6e6e6"
+         id="stop10563" />
+      <stop
+         offset="1"
+         stop-color="#fafafa"
+         id="stop10565" />
+    </linearGradient>
+    <filter
+       id="luminosity-noclip-2"
+       x="12.33"
+       y="0"
+       width="30.559999"
+       height="55.66"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="#fff"
+         result="bg"
+         id="feFlood10568" />
+      <feBlend
+         in="SourceGraphic"
+         in2="bg"
+         id="feBlend10570"
+         mode="normal" />
+    </filter>
+    <mask
+       id="mask-2"
+       x="12.33"
+       y="0"
+       width="30.56"
+       height="55.66"
+       maskUnits="userSpaceOnUse">
+      <g
+         class="cls-1"
+         mask="url(#mask)"
+         id="g10575">
+        <path
+           class="cls-2"
+           d="M 42.89,39.76 A 15.14,15.14 0 0 0 40.77,32 4.9,4.9 0 0 0 42.53,28.23 v -0.19 a 4.87,4.87 0 0 0 -1.79,-3.79 4.89,4.89 0 0 0 1.79,-3.79 V 20.3 a 4.87,4.87 0 0 0 -1.79,-3.79 4.89,4.89 0 0 0 1.79,-3.79 v -0.19 a 4.8,4.8 0 0 0 -4.21,-4.81 11.31,11.31 0 0 0 -22,3.6 V 29.5 a 15.21,15.21 0 0 0 -4,10.26 c 0,0.13 0,0.27 0,0.4 0,0.13 0,0.15 0,0.22 a 15.28,15.28 0 0 0 30.56,0 c 0,-0.07 0,-0.14 0,-0.22 0,-0.08 0.01,-0.27 0.01,-0.4 z"
+           id="path10573" />
+      </g>
+    </mask>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="7.5"
+       y1="48.759998"
+       x2="47.619999"
+       y2="8.6400003"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.39"
+         stop-color="#fff"
+         id="stop10578" />
+      <stop
+         offset="0.5"
+         stop-color="#fcfcfc"
+         id="stop10580" />
+      <stop
+         offset="0.58"
+         stop-color="#f3f3f3"
+         id="stop10582" />
+      <stop
+         offset="0.65"
+         stop-color="#e3e3e3"
+         id="stop10584" />
+      <stop
+         offset="0.71"
+         stop-color="#cecece"
+         id="stop10586" />
+      <stop
+         offset="0.72"
+         stop-color="#c9c9c9"
+         id="stop10588" />
+      <stop
+         offset="0.76"
+         stop-color="#c9c9c9"
+         id="stop10590" />
+      <stop
+         offset="0.99"
+         stop-color="#c9c9c9"
+         id="stop10592" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title10597">temperature_high</title>
+  <path
+     class="cls-26"
+     d="m 30.57,39.68785 a 15.14,15.14 0 0 0 -2.12,-7.76 4.91,4.91 0 0 0 1.77,-3.77 c 0,0 0,-0.06 0,-0.1 0,-0.04 0,-0.06 0,-0.09 a 4.9,4.9 0 0 0 -1.84,-3.83 4.88,4.88 0 0 0 1.84,-3.82 c 0,0 0,0 0,-0.06 0,-0.06 0,0 0,-0.06 a 4.87,4.87 0 0 0 -1.84,-3.82 4.92,4.92 0 0 0 1.84,-3.83 c 0,0 0,0 0,-0.06 0,-0.06 0,0 0,-0.06 A 4.81,4.81 0 0 0 26,7.6178497 11.31,11.31 0 0 0 4,11.21785 v 18.21 a 15.21,15.21 0 0 0 -4,10.26 c 0,0.13 0,0.27 0,0.4 0,0.13 0,0.15 0,0.22 a 15.28,15.28 0 0 0 30.56,0 c 0,-0.07 0,-0.14 0,-0.22 0,-0.08 0.01,-0.27 0.01,-0.4 z"
+     id="path10643"
+     style="isolation:isolate;fill:url(#linear-gradient-2)" />
+  <g
+     class="cls-32"
+     mask="url(#mask-2)"
+     id="g10670"
+     style="isolation:isolate"
+     transform="translate(-12.32,-0.07215026)">
+    <path
+       class="cls-33"
+       d="M 42.89,39.76 A 15.14,15.14 0 0 0 40.77,32 4.9,4.9 0 0 0 42.53,28.23 v -0.19 a 4.87,4.87 0 0 0 -1.79,-3.79 4.89,4.89 0 0 0 1.79,-3.79 V 20.3 a 4.87,4.87 0 0 0 -1.79,-3.79 4.89,4.89 0 0 0 1.79,-3.79 v -0.19 a 4.8,4.8 0 0 0 -4.21,-4.81 11.31,11.31 0 0 0 -22,3.6 V 29.5 a 15.21,15.21 0 0 0 -4,10.26 c 0,0.13 0,0.27 0,0.4 0,0.13 0,0.15 0,0.22 a 15.28,15.28 0 0 0 30.56,0 c 0,-0.07 0,-0.14 0,-0.22 0,-0.08 0.01,-0.27 0.01,-0.4 z"
+       id="path10668"
+       style="fill:url(#linear-gradient-3)" />
+  </g>
+  <g
+     id="temperature_high-2"
+     data-name="temperature_high"
+     style="isolation:isolate"
+     transform="translate(-12.32,-0.07215026)">
+    <path
+       class="cls-27"
+       d="m 38.11,28.26 c 0,0.23 -0.14,0.41 -0.3,0.41 h -1.46 c -0.16,0 -0.3,-0.18 -0.3,-0.41 v 0 c 0,-0.23 0.14,-0.42 0.3,-0.42 h 1.46 c 0.16,0 0.3,0.19 0.3,0.42 z"
+       id="path10645" />
+    <path
+       class="cls-27"
+       d="m 38.11,20.42 c 0,0.23 -0.14,0.42 -0.3,0.42 h -1.46 c -0.16,0 -0.3,-0.19 -0.3,-0.42 v 0 c 0,-0.23 0.14,-0.42 0.3,-0.42 h 1.46 c 0.16,0 0.3,0.19 0.3,0.42 z"
+       id="path10647" />
+    <path
+       class="cls-27"
+       d="m 38.11,12.65 c 0,0.23 -0.14,0.42 -0.3,0.42 h -1.46 c -0.16,0 -0.3,-0.19 -0.3,-0.42 v 0 c 0,-0.23 0.14,-0.42 0.3,-0.42 h 1.46 c 0.16,0 0.3,0.19 0.3,0.42 z"
+       id="path10649" />
+    <path
+       class="cls-27"
+       d="M 34.5,32 V 11.94 a 6.89,6.89 0 1 0 -13.78,0 V 32 a 10.85,10.85 0 1 0 13.78,0 z"
+       id="path10651" />
+    <path
+       class="cls-28"
+       d="M 34.5,31.38 V 11.32 a 6.89,6.89 0 0 0 -13.78,0 v 20.06 a 10.85,10.85 0 1 0 13.78,0 z"
+       id="path10653" />
+    <path
+       class="cls-28"
+       d="m 38.11,28.07 c 0,0.23 -0.14,0.42 -0.3,0.42 h -1.46 c -0.16,0 -0.3,-0.19 -0.3,-0.42 v 0 c 0,-0.23 0.14,-0.42 0.3,-0.42 h 1.46 c 0.16,0 0.3,0.19 0.3,0.42 z"
+       id="path10655" />
+    <path
+       class="cls-29"
+       d="M 33.5,32.81 33.06,32.45 V 13.83 a 0.61,0.61 0 0 0 -0.61,-0.6 h -9.68 a 0.6,0.6 0 0 0 -0.61,0.6 v 18.62 l -0.44,0.36 a 9.28,9.28 0 1 0 11.78,0 z"
+       id="path10657" />
+    <path
+       class="cls-28"
+       d="m 38.11,20.3 c 0,0.23 -0.14,0.42 -0.3,0.42 h -1.46 c -0.16,0 -0.3,-0.19 -0.3,-0.42 v 0 c 0,-0.23 0.14,-0.42 0.3,-0.42 h 1.46 c 0.16,0 0.3,0.19 0.3,0.42 z"
+       id="path10659" />
+    <path
+       class="cls-28"
+       d="m 38.11,12.53 c 0,0.23 -0.14,0.42 -0.3,0.42 h -1.46 c -0.16,0 -0.3,-0.19 -0.3,-0.42 v 0 c 0,-0.23 0.14,-0.42 0.3,-0.42 h 1.46 c 0.16,0 0.3,0.19 0.3,0.42 z"
+       id="path10661" />
+    <path
+       class="cls-30"
+       d="M 33.5,32.21 33.06,31.84 V 13.23 a 0.61,0.61 0 0 0 -0.61,-0.61 h -9.68 a 0.61,0.61 0 0 0 -0.61,0.61 v 18.61 l -0.44,0.37 a 9.28,9.28 0 1 0 11.78,0 z"
+       id="path10663" />
+    <path
+       class="cls-31"
+       d="m 27.61,23.79 c 2.26,0 4.49,0.11 6.66,0.31 V 11.85 a 6.66,6.66 0 0 0 -13.32,0 V 24.1 c 2.17,-0.2 4.39,-0.31 6.66,-0.31 z"
+       id="path10665" />
+  </g>
+</svg>
