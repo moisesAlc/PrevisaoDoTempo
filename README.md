@@ -4,7 +4,7 @@ Gera dados aleatórios de condição do tempo e temperatura, a partir de uma API
 
 ## 🎥 Demonstração
 
-<img alt="PokeAPI" title="PokeAPI" src=".github/demo.gif"/>
+<img alt="PokeAPI" title="PokeAPI" src=".github/demo2.gif"/>
 
 ## 🔖 Features
 
