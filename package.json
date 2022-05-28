@@ -5,16 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "back": "cd backend && dotnet run",
-    "front": "cd frontend && live-server",
-    "api": "swagger/index.html",
-    "start": "npm run open",
-    "open": "concurrently \"http-server -a localhost -p 8080\" \"open http://localhost:8080/frontend/index2.html"
+    "start-back": "dotnet run --project backend",
+    "start": "http-server -a localhost --cors -p 8080 -o frontend/"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^7.0.0",
-    "http-server": "^14.1.0"
+    "bootstrap": "^5.1.3",
+    "http-server": "^14.1.0",
+    "jquery": "^3.6.0"
   }
 }
